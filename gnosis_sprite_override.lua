@@ -1,0 +1,1 @@
+return "mods/Spell_Lab/files/ui_gfx/inventory/book_all_spells.png"
